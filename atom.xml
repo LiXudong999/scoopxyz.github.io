@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2020-04-04T19:56:16.475Z</updated>
+  <updated>2020-04-05T15:06:14.103Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -18,19 +18,18 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="http://yoursite.com/2020/04/04/hello-world/"/>
-    <id>http://yoursite.com/2020/04/04/hello-world/</id>
-    <published>2020-04-04T19:56:16.475Z</published>
-    <updated>2020-04-04T19:56:16.475Z</updated>
+    <link href="http://yoursite.com/2020/04/05/hello-world/"/>
+    <id>http://yoursite.com/2020/04/05/hello-world/</id>
+    <published>2020-04-05T00:00:00.000Z</published>
+    <updated>2020-04-05T15:06:14.103Z</updated>
     
-    <content type="html"><![CDATA[<p>This is just a test post :)</p>]]></content>
+    <content type="html"><![CDATA[<p>This is a rebirth of my once used website/blog. Hopefully there will be some stuff worth sharing soon, but we’ll have to wait until then!</p><p>Thanks for taking a look, and see you soon!</p>]]></content>
     
     <summary type="html">
     
       
       
-        &lt;p&gt;This is just a test post :)&lt;/p&gt;
-
+        &lt;p&gt;This is a rebirth of my once used website/blog. Hopefully there will be some stuff worth sharing soon, but we’ll have to wait until then!
       
     
     </summary>
